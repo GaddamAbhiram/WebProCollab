@@ -4,6 +4,12 @@ body {
    background: radial-gradient(circle, white, lightgray);
 }
 
+/* H1 styles */
+h1 {
+   color: darkblue;
+   padding: 8px;
+   text-shadow: 5px 5px 6px gray;
+}
 
 /* Reset for the fifth paragraph */
 p:nth-of-type(5) {
